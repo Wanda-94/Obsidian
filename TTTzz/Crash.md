@@ -1,0 +1,24 @@
+07-27 20:33:36.502 30936 31237 D UE4     : [2023.07.27-12.33.36:502][797]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.367 s
+07-27 20:33:36.503 30936 31237 D UE4     : [2023.07.27-12.33.36:503][797]LogOutputDevice: Error: === Handled ensure: ===
+07-27 20:33:36.503 30936 31237 D UE4     : [2023.07.27-12.33.36:503][797]LogOutputDevice: Error: 
+07-27 20:33:36.503 30936 31237 D UE4     : [2023.07.27-12.33.36:503][797]LogOutputDevice: Error: Ensure condition failed: Lhs.CurrentNum == Lhs.InitialNum [File:H:/NRC/MorefunUE4/Engine/Source/Runtime/Core/Public\Containers/Array.h] [Line: 216]
+07-27 20:33:36.503 30936 31237 D UE4     : [2023.07.27-12.33.36:503][797]LogOutputDevice: Error: Array has changed during ranged-for iteration!
+07-27 20:33:36.503 30936 31237 D UE4     : [2023.07.27-12.33.36:503][797]LogOutputDevice: Error: Stack: 
+07-27 20:33:36.503 30936 31237 D UE4     : [2023.07.27-12.33.36:503][797]LogOutputDevice: Error: [Callstack] 0x00000073B804BC30 libUE4.so(0x0000000012EC5C30)!operator!=(TCheckedPointerIterator<TSharedRef<FNavigationRelevantData, (ESPMode)1>, int> const&, TCheckedPointerIterator<TSharedRef<FNavigationRelevantData, (ESPMode)1>, int> const&)::{lambda()#1}::operator()() const  []
+07-27 20:33:36.503 30936 31237 D UE4     : [2023.07.27-12.33.36:503][797]LogOutputDevice: Error: [Callstack] 0x00000073B8032D04 libUE4.so(0x0000000012EACD04)!FRecastTileGenerator::AddReferencedObjects(FReferenceCollector&)  []
+07-27 20:33:36.503 30936 31237 D UE4     : [2023.07.27-12.33.36:503][797]LogOutputDevice: Error: [Callstack] 0x00000073B39B91B4 libUE4.so(0x000000000E8331B4)!UGCObjectReferencer::AddReferencedObjects(UObject*, FReferenceCollector&)  []
+07-27 20:33:36.503 30936 31237 D UE4     : [2023.07.27-12.33.36:503][797]LogOutputDevice: Error: [Callstack] 0x00000073B3B98E50 libUE4.so(0x000000000EA12E50)!TFastReferenceCollector<FGCReferenceProcessor<(EFastReferenceCollectorOptions)9>, FGCCollector<(EFastReferenceCollectorOptions)9>, FGCArrayPool, (EFastReferenceCollectorOptions)9>::ProcessObjectArray(FGCArrayStruct&, TRefCountPtr<FGraphEvent> const&)  []
+07-27 20:33:36.503 30936 31237 D UE4     : [2023.07.27-12.33.36:503][797]LogOutputDevice: Error: [Callstack] 0x00000073B3B9EAC0 libUE4.so(0x000000000EA18AC0)!TFastReferenceCollector<FGCReferenceProcessor<(EFastReferenceCollectorOptions)9>, FGCCollector<(EFastReferenceCollectorOptions)9>, FGCArrayPool, (EFastReferenceCollectorOptions)9>::FCollectorTaskQueue::DoTask()  []
+07-27 20:33:36.503 30936 31237 D UE4     : [2023.07.27-12.33.36:503][797]LogOutputDevice: Error: [Callstack] 0x00000073B3B9E2C0 libUE4.so(0x000000000EA182C0)!TGraphTask<TFastReferenceCollector<FGCReferenceProcessor<(EFastReferenceCollectorOptions)9>, FGCCollector<(EFastReferenceCollectorOptions)9>, FGCArrayPool, (EFastReferenceCollectorOptions)9>::FCollectorTaskProcessorTask>::ExecuteTask(TArray<FBaseGraphTask*, TSizedDefaultAllocator<32> >&, ENamedThreads::Type)  []
+07-27 20:33:36.503 30936 31237 D UE4     : [2023.07.27-12.33.36:503][797]LogOutputDevice: Error: [Callstack] 0x00000073B342C948 libUE4.so(0x000000000E2A6948)!FTaskThreadAnyThread::ProcessTasks()  []
+07-27 20:33:36.503 30936 31237 D UE4     : [2023.07.27-12.33.36:503][797]LogOutputDevice: Error: [Callstack] 0x00000073B342BC5C libUE4.so(0x000000000E2A5C5C)!FTaskThreadAnyThread::ProcessTasksUntilQuit(int)  []
+07-27 20:33:36.503 30936 31237 D UE4     : [2023.07.27-12.33.36:503][797]LogOutputDevice: Error: [Callstack] 0x00000073B342BA54 libUE4.so(0x000000000E2A5A54)!FTaskThreadAnyThread::Run()  []
+07-27 20:33:36.503 30936 31237 D UE4     : [2023.07.27-12.33.36:503][797]LogOutputDevice: Error: [Callstack] 0x00000073B352DB88 libUE4.so(0x000000000E3A7B88)!FRunnableThreadPThread::Run()  []
+07-27 20:33:36.503 30936 31237 D UE4     : [2023.07.27-12.33.36:503][797]LogOutputDevice: Error: [Callstack] 0x00000073B3429F50 libUE4.so(0x000000000E2A3F50)!FRunnableThreadPThread::_ThreadProc(void*)  []
+07-27 20:33:36.503 30936 31237 D UE4     : [2023.07.27-12.33.36:503][797]LogOutputDevice: Error: [Callstack] 0x00000074B78B8204 libc.so(0x00000000000F4204)![Unknown]()  []
+07-27 20:33:36.503 30936 31237 D UE4     : [2023.07.27-12.33.36:503][797]LogOutputDevice: Error: [Callstack] 0x00000074B7852C64 libc.so(0x000000000008EC64)![Unknown]()  []
+07-27 20:33:36.503 30936 31237 D UE4     : [2023.07.27-12.33.36:503][797]LogOutputDevice: Error: 
+07-27 20:33:36.503 30936 31237 D UE4     : [2023.07.27-12.33.36:503][797]LogUnLua: Warning: Lua state IsNotInGameThread
+07-27 20:33:36.503 30936 31237 D UE4     : [2023.07.27-12.33.36:503][797]LogStats:                SubmitErrorReport -  0.000 s
+07-27 20:33:36.503 30936 31237 D UE4     : [2023.07.27-12.33.36:503][797]LogStats:                    SendNewReport -  0.000 s
+07-27 20:33:36.503 30936 31237 D UE4     : [2023.07.27-12.33.36:503][797]LogStats:             FDebug::EnsureFailed -  0.369 s

@@ -1,0 +1,2 @@
+修改了ShaderPipelineCache开启时机后，在Android上会偶发崩溃。
+原因是Engine默认ShaderPipelineCache的开启在任意Shader的生成前，修改了开启时机后会有部分Shader在ShaderPipelineCache加载前生成，而ShaderPipelineCache又将其生成了一遍导致冲突

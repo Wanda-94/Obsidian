@@ -1,0 +1,425 @@
+{
+  "main": {
+    "id": "2738fb5945cdb380",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b916249ef610874",
+        "type": "tabs",
+        "dimension": 77.41796200345424,
+        "children": [
+          {
+            "id": "07648f97c86a521d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "0a0df276bd30eb32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unreal NRC/TextureUpdate/TextureUpdate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6ec7f7f9efa0f5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unreal NRC/TextureUpdate/TextureUpdate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bedb71934bbf3a06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unreal NRC/Jitter/Jitter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9121ce73671c9f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unreal NRC/Jitter/NPC Leave.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13572ba3ce985660",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unreal NRC/Jitter/Jitter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4281d5a051d85dae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unreal NRC/Optimation/GC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a2c6e570919dfe9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crash.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "769755e4a80e06e5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Unreal/RHI/attachments/GL Fence在AuxRHI中的使用 2023-07-28 12.20.48.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "0f0939820901cb95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unreal/GC/GC Crash.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ecb395cd5526e173",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Unreal/GC/attachments/GC Crash 2023-08-04 15.08.04.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "c254ac38999c2b4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unreal NRC/Optimation/Lock Buffer Error.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64a5070fb2bf6890",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Unreal/GC/attachments/Pasted image 20230808192009.png"
+              }
+            }
+          },
+          {
+            "id": "bd1bca2eff546115",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-10-11 16.06.06.excalidraw.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 13
+      },
+      {
+        "id": "6a7e9f830cb05cc5",
+        "type": "tabs",
+        "dimension": 22.58203799654577,
+        "children": [
+          {
+            "id": "5cfe35e2edc4d4ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unreal NRC/TextureUpdate/TextureUpdate.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24546a912b71919d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unreal NRC/Jitter/Jitter.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9856cbabc7ef137e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unreal/GC/GC Crash.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca2e75c8cb7783d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Hash.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e816d17f92efbb18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unreal NRC/Optimation/压测_RHI.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c7c51ad46599bf7",
+    "type": "split",
+    "children": [
+      {
+        "id": "fec61221d8bd584d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6c92b8a3d6504fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e4ee53a5ff06fc7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7bb1e5b82590e5aa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283.5
+  },
+  "right": {
+    "id": "a150e201edfdf6de",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6f3bd2d07533987",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5433118d4ad251a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-10-11 16.06.06.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1310cdbc29eb3b14",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-10-11 16.06.06.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a0f25a49a8f551ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d89518f0ff4a276a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-10-11 16.06.06.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "bb121698c949a428",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "bd1bca2eff546115",
+  "lastOpenFiles": [
+    "Unreal/GC/attachments/Pasted image 20230808192009.png",
+    "Excalidraw/Drawing 2023-10-11 16.06.06.excalidraw.md",
+    "Unreal/GC/attachments/Pasted image 20230808191941.png",
+    "Unreal/GC/attachments/Pasted image 20230808144004.png",
+    "Excalidraw/Scripts/Downloaded/Copy Selected Element Styles to Global.md",
+    "Excalidraw/Drawing 2023-08-09 13.44.09.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Copy Selected Element Styles to Global.svg",
+    "AIGC/Voice.md",
+    "Unreal/GC/attachments/GC Crash 2023-08-04 15.08.04.excalidraw.md",
+    "Unreal NRC/TextureUpdate/CompressedTextureMerge.md",
+    "Unreal NRC/TextureUpdate/attachments/Pasted image 20231008145656.png",
+    "Unreal NRC/TextureUpdate/attachments/Pasted image 20231008145339.png",
+    "Unreal NRC/TextureUpdate/attachments/Pasted image 20230926173932.png",
+    "Unreal/CommandLine.md",
+    "Unreal NRC/Optimation/Lock Buffer Error.md",
+    "Unreal NRC/Jitter/Jitter.md",
+    "Unreal NRC/Jitter/Jitter V2.0.md",
+    "Unreal NRC/Jitter/Lua GC & Engine GC.md",
+    "Unreal NRC/Optimation/GC.md",
+    "Unreal NRC/Optimation/压测_RHI.md",
+    "Unreal NRC/Optimation/压测_NoNPC.md",
+    "Unreal NRC/Optimation/Oppp Reno 9 Crash.md",
+    "Unreal NRC/PSO/BinaryCache.md",
+    "Unreal NRC/PSO",
+    "Unreal NRC/Optimation/压测.md",
+    "Unreal NRC/Optimation/attachments/Pasted image 20230913160542.png",
+    "Unreal NRC/Optimation/attachments/Pasted image 20230913113001.png",
+    "Unreal NRC/Optimation/attachments/Pasted image 20230913112945.png",
+    "Unreal NRC/Optimation/attachments/Pasted image 20230913112923.png",
+    "Python/Hash.md",
+    "Crash.md",
+    "Python",
+    "AIGC",
+    "Excalidraw/attachments",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Unreal/GC/GC Crash.md",
+    "Unreal/GC/attachments/attachments",
+    "Unreal/GC/attachments",
+    "Unreal/RHI/GL Fence在AuxRHI中的使用.md",
+    "Unreal/GC",
+    "Unreal NRC/Jitter/NPC Leave.md",
+    "Unreal/RHI/attachments/GL Fence在AuxRHI中的使用 2023-07-28 12.20.48.excalidraw.md",
+    "Unreal/RHI/attachments/GL Fence在AuxRHI中的使用 2023-07-28 12.00.32.excalidraw.md",
+    "Excalidraw/Drawing 2023-07-28 11.59.58.excalidraw.md",
+    "Excalidraw",
+    "Untitled.canvas",
+    "未命名.canvas"
+  ]
+}

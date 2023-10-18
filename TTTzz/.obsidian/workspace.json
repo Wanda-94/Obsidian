@@ -6,7 +6,7 @@
       {
         "id": "3b916249ef610874",
         "type": "tabs",
-        "dimension": 77.41796200345424,
+        "dimension": 55.088967971530245,
         "children": [
           {
             "id": "07648f97c86a521d",
@@ -163,14 +163,48 @@
                 "file": "Excalidraw/Drawing 2023-10-11 16.06.06.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "acca0a6c8ae0ebb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TencentNote/阴影相关.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93d96696c75c22ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TencentNote/阴影相关.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4213444f90a3007",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 15
       },
       {
         "id": "6a7e9f830cb05cc5",
         "type": "tabs",
-        "dimension": 22.58203799654577,
+        "dimension": 44.91103202846975,
         "children": [
           {
             "id": "5cfe35e2edc4d4ef",
@@ -226,7 +260,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal NRC/Optimation/压测_RHI.md",
+                "file": "TencentNote/AuxRHI/AuxRHI.md",
                 "mode": "preview",
                 "source": false
               }
@@ -299,7 +333,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-11 16.06.06.excalidraw.md",
+                "file": "TencentNote/阴影相关.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -316,7 +350,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-11 16.06.06.excalidraw.md",
+                "file": "TencentNote/阴影相关.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -339,7 +373,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-11 16.06.06.excalidraw.md"
+                "file": "TencentNote/阴影相关.md"
               }
             }
           },
@@ -371,8 +405,30 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bd1bca2eff546115",
+  "active": "93d96696c75c22ea",
   "lastOpenFiles": [
+    "TencentNote/RDC/资源导出.md",
+    "TencentNote/GI/GI.md",
+    "TencentNote/AuxRHI/AuxRHI.md",
+    "TencentNote/ASTC/ASTC.md",
+    "TencentNote/阴影相关.md",
+    "TencentNote/UserBinaryCache/UserBinaryCache.md",
+    "TencentNote/AuxRHI/attachments/Pasted image 20231017113343.png",
+    "TencentNote/AuxRHI/attachments",
+    "TencentNote/UserBinaryCache",
+    "TencentNote/RDC",
+    "TencentNote/AuxRHI",
+    "TencentNote/ASTC",
+    "TencentNote/GI/attachments/Pasted image 20231013164443.png",
+    "TencentNote/GI/StupidSH36.pdf",
+    "TencentNote/GI/spherical-harmonic-lighting.pdf",
+    "TencentNote/GI/SH.pdf",
+    "TencentNote/GI/LToE.pdf",
+    "TencentNote/GI/Light_Propagation_Volumes.pdf",
+    "TencentNote/GI/attachments/Pasted image 20231013155248.png",
+    "TencentNote/GI/attachments/Pasted image 20231013155238.png",
+    "TencentNote/GI/attachments/Pasted image 20231013154847.png",
+    "Unreal NRC/Optimation/压测_RHI.md",
     "Unreal/GC/attachments/Pasted image 20230808192009.png",
     "Excalidraw/Drawing 2023-10-11 16.06.06.excalidraw.md",
     "Unreal/GC/attachments/Pasted image 20230808191941.png",
@@ -384,41 +440,18 @@
     "Unreal/GC/attachments/GC Crash 2023-08-04 15.08.04.excalidraw.md",
     "Unreal NRC/TextureUpdate/CompressedTextureMerge.md",
     "Unreal NRC/TextureUpdate/attachments/Pasted image 20231008145656.png",
-    "Unreal NRC/TextureUpdate/attachments/Pasted image 20231008145339.png",
-    "Unreal NRC/TextureUpdate/attachments/Pasted image 20230926173932.png",
     "Unreal/CommandLine.md",
     "Unreal NRC/Optimation/Lock Buffer Error.md",
     "Unreal NRC/Jitter/Jitter.md",
     "Unreal NRC/Jitter/Jitter V2.0.md",
     "Unreal NRC/Jitter/Lua GC & Engine GC.md",
     "Unreal NRC/Optimation/GC.md",
-    "Unreal NRC/Optimation/压测_RHI.md",
     "Unreal NRC/Optimation/压测_NoNPC.md",
     "Unreal NRC/Optimation/Oppp Reno 9 Crash.md",
     "Unreal NRC/PSO/BinaryCache.md",
-    "Unreal NRC/PSO",
     "Unreal NRC/Optimation/压测.md",
-    "Unreal NRC/Optimation/attachments/Pasted image 20230913160542.png",
-    "Unreal NRC/Optimation/attachments/Pasted image 20230913113001.png",
-    "Unreal NRC/Optimation/attachments/Pasted image 20230913112945.png",
-    "Unreal NRC/Optimation/attachments/Pasted image 20230913112923.png",
     "Python/Hash.md",
     "Crash.md",
-    "Python",
-    "AIGC",
-    "Excalidraw/attachments",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "Unreal/GC/GC Crash.md",
-    "Unreal/GC/attachments/attachments",
-    "Unreal/GC/attachments",
-    "Unreal/RHI/GL Fence在AuxRHI中的使用.md",
-    "Unreal/GC",
-    "Unreal NRC/Jitter/NPC Leave.md",
-    "Unreal/RHI/attachments/GL Fence在AuxRHI中的使用 2023-07-28 12.20.48.excalidraw.md",
-    "Unreal/RHI/attachments/GL Fence在AuxRHI中的使用 2023-07-28 12.00.32.excalidraw.md",
-    "Excalidraw/Drawing 2023-07-28 11.59.58.excalidraw.md",
-    "Excalidraw",
     "Untitled.canvas",
     "未命名.canvas"
   ]
